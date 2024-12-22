@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Leya LI</h1>
-<h3 align="center">A passionate fintech researcher from China</h3>
+<h3 align="center">A passionate fintech master student</h3>
 
-- 🌱 I’m currently learning **LLMs application in the financial domain**
+- 🌱 I’m currently learning: **LLMs' application in the financial domain**
 
-- 💬 Ask me about **Fintech, LLMs, Machin Learning Application in Finance**
+- 💬 Ask me about: **Fintech, LLMs, Machin Learning Application in Finance**
 
-- 📫 How to reach me **leya_li@u.nus.edu**
+- 📫 How to reach me: **leya_li@u.nus.edu**
 
-- ⚡ Fun fact **Extrovert🦜 Fitness enthusiast💪**
+- ⚡ Fun fact： **Extrovert🦜 Fitness Enthusiast💪 Coffee Lover☕ ENFJ🤗**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
