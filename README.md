@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **leya_li@u.nus.edu**
 
-- ⚡ Fun fact: **Extrovert🦜 Fitness Enthusiast💪 Coffee Lover☕ ENFJ🤗**
+- ⚡ Fun fact: **Extrovert🦜 Fitness Enthusiast💪 Coffee Lover☕ ENFJ/ENTJ🤗**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
