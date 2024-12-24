@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning: **LLMs' applications in the financial domain**
 
-- 💬 Ask me about: **Fintech, LLMs, Machine Learning Applications in Finance**
+- 💬 Ask me about: **Fintech, LLMs, Machine Learning Applications in Finance, AI in Finance**
 
 - 📫 How to reach me: **leya_li@u.nus.edu**
 
